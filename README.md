@@ -2,13 +2,13 @@
 
 Project description goes here
 
-![Uploading Screen Shot 2022-06-06 at 10.40.37.png…](Uploading Screen Shot 2022-06-06 at 10.40.37.png…)
-[Dashboard](!Uploading Screen Shot 2022-06-06 at 10.40.51.png)
-![Chatroom](Uploading Screen Shot 2022-06-06 at 10.41.17.png)
+![Home](/app/assets/images/Nurture_home.png "Optional title")
+![Dashboard](/app/assets/images/Nurture_dashboard.png "Optional title")
+![Chatroom](/app/assets/images/Nurture_chatroom.png "Optional title")
 
 <br>
 App home: https://nurture-lw.herokuapp.com/
-   
+
 
 ## Getting Started
 ### Setup

@@ -3,13 +3,13 @@ Nurturing insight and engagement between teachers and students.
 <br>
 
 🏠Home
-![Home](/app/assets/images/Nurture_home.png "Optional title")
+![Home](/app/assets/images/Nurture_home.png "Home")
 
 📊Dashboard
-![Dashboard](/app/assets/images/Nurture_dashboard.png "Optional title")
+![Dashboard](/app/assets/images/Nurture_dashboard.png "Dashboard")
 
 💬Chatroom
-![Chatroom](/app/assets/images/Nurture_chatroom.png "Optional title")
+![Chatroom](/app/assets/images/Nurture_chatroom.png "Chatroom")
 
 <br>
 App home: https://nurture-lw.herokuapp.com/

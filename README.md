@@ -1,14 +1,14 @@
 # 📚 Nuture
+Nurturing insight and engagement between teachers and students.
+<br>
 
-Project description goes here
-
-Home
+🏠Home
 ![Home](/app/assets/images/Nurture_home.png "Optional title")
 
-Dashboard
+📊Dashboard
 ![Dashboard](/app/assets/images/Nurture_dashboard.png "Optional title")
 
-Chatroom
+💬Chatroom
 ![Chatroom](/app/assets/images/Nurture_chatroom.png "Optional title")
 
 <br>
